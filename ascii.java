@@ -8,7 +8,7 @@ for(int j=1;j<=i;j++)
 {
 if(i%2==1)
 {
-System.out.print(i);}
+System.out.print(j);}
 else{
 System.out.print((char)65);}
 }
